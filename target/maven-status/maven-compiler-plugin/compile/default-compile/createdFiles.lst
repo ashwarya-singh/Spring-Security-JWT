@@ -1,0 +1,12 @@
+com\ash\incubation\incubation\configuration\UserInfoUserDetailService.class
+com\ash\incubation\incubation\entity\UserInfo.class
+com\ash\incubation\incubation\repository\UserRepository.class
+com\ash\incubation\incubation\controller\AddNewUserController.class
+com\ash\incubation\incubation\SpringSecurityByAshApplication.class
+com\ash\incubation\incubation\configuration\UserInfoUserDetails.class
+com\ash\incubation\incubation\service\JWTService.class
+com\ash\incubation\incubation\model\Customer.class
+com\ash\incubation\incubation\configuration\SecurityConfig.class
+com\ash\incubation\incubation\controller\BasicSpringSecurityController.class
+com\ash\incubation\incubation\model\AuthRequest.class
+com\ash\incubation\incubation\service\BasicSecurityService.class
